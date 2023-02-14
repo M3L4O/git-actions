@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git-actions/static/css/main.2462828c.css",
+    "main.js": "/git-actions/static/js/main.a2af2c72.js",
+    "index.html": "/git-actions/index.html",
+    "main.2462828c.css.map": "/git-actions/static/css/main.2462828c.css.map",
+    "main.a2af2c72.js.map": "/git-actions/static/js/main.a2af2c72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2462828c.css",
+    "static/js/main.a2af2c72.js"
+  ]
+}
